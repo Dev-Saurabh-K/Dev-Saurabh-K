@@ -57,8 +57,9 @@ I’m a passionate full-stack web developer who loves building modern, scalable,
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Saurabh-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Saurabh's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Saurabh-K&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Saurabh-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="Saurabh's GitHub stats" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Saurabh-K&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Langs" width="48%" />
 </p>
 
 ---
