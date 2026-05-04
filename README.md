@@ -1,56 +1,62 @@
-# 👋 Hey there, I'm Saurabh Kumar  
+# 👋 Hi, I'm Saurabh Kumar  
 
-🚀 **MERN Stack Developer** | 💻 **Open Source Enthusiast** | 🐳 **Exploring DevOps (Docker • CI/CD • GitHub Actions)**  
-
----
-
-### 👨‍💻 About Me
-I’m a passionate full-stack web developer who loves building modern, scalable, and efficient applications.  
-Currently diving deep into **DevOps practices** to automate and optimize development workflows.  
-
-- 🔭 **Currently Exploring:** Docker, CI/CD pipelines & GitHub Actions  
-- 💡 **Core Skills:** React.js, Next.js, Express.js, MongoDB, MySQL  
-- 🧠 **Comfortable With:** C programming, Bash scripting, RESTful APIs  
-- 🧩 **Interests:** Full-stack development, system design, open-source collaboration  
+🚀 MERN Stack Developer | DevOps Learner | Open Source Enthusiast  
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me  
+I’m a full-stack developer focused on building scalable, performant, and user-friendly web applications.  
+Currently expanding my skill set into DevOps to streamline development and deployment workflows.  
 
-**Frontend:**  
-`React.js` • `Next.js` • `Tailwind CSS` • `HTML5` • `CSS3` • `JavaScript (ES6+)`
-
-**Backend:**  
-`Node.js` • `Express.js` • `REST APIs` • `JWT Auth` • `Socket.io`
-
-**Database:**  
-`MongoDB` • `MySQL`
-
-**DevOps / Tools:**  
-`Docker` • `Git & GitHub` • `GitHub Actions` • `VS Code` • `Postman` • `Linux` • `Bash`
+- 🔭 Exploring: Docker, CI/CD pipelines, GitHub Actions  
+- 💻 Tech Focus: MERN Stack (MongoDB, Express, React, Node.js)  
+- 🧠 Strong in: C programming, REST APIs, Bash scripting  
+- 🌱 Goal: Build production-grade, scalable applications  
+- 🤝 Open to: Collaboration, open-source contributions, internships  
 
 ---
 
-### 🌱 What I'm Learning Next
-- CI/CD pipeline automation with GitHub Actions  
-- Docker container orchestration  
-- Scalable deployment workflows for MERN apps  
+## 🛠️ Tech Stack  
+
+### 🚀 Frontend  
+React.js • Next.js • Tailwind CSS • HTML5 • CSS3 • JavaScript (ES6+)  
+
+### ⚙️ Backend  
+Node.js • Express.js • REST APIs • JWT Authentication • Socket.io  
+
+### 🗄️ Database  
+MongoDB • MySQL  
+
+### 🐳 DevOps & Tools  
+Docker • Git • GitHub • GitHub Actions • Linux • Bash • Postman • VS Code  
 
 ---
 
-### 📈 GitHub Stats  
+## 📌 Featured Projects  
 
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Saurabh-K&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Saurabh-K&layout=compact&theme=tokyonight)
+🔹 **ConsentLens**  
+A privacy policy analyzer that detects risky terms and visualizes risk scores for users.  
+
+🔹 **SafeShare (In Progress)**  
+A privacy-focused file-sharing system with secure transfer and permission analysis.  
+
+🔹 **SafeAPK (Idea Stage)**  
+An Android app to scan APK files and detect dangerous permissions before sharing.  
 
 ---
 
-### 📫 Connect With Me  
+## 📈 GitHub Stats  
 
-- 💼 [LinkedIn](https://www.linkedin.com/messaging/thread/2-YzJmNWEzNmQtYzAwYS00ZTE4LWFkYWQtYzg4OWJiYmZlMjBlXzEwMA==/)  
-- 📧 **Email:** saurabhkumar.sakr@gmail.com  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Saurabh-K&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Saurabh-K&layout=compact&theme=tokyonight)
 
 ---
 
-> “Code, Learn, Automate, Repeat 💻”  
-> — _Saurabh Kumar_
+## 📫 Connect With Me  
+
+💼 LinkedIn: https://www.linkedin.com/in/YOUR-USERNAME  
+📧 Email: saurabhkumar.sakr@gmail.com  
+
+---
+
+⭐ *“Code. Build. Automate. Repeat.”*  
