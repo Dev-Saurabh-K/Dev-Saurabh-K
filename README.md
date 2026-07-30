@@ -66,7 +66,7 @@ I’m a passionate full-stack web developer who loves building modern, scalable,
 
 ### 📫 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile-name]([https://www.linkedin.com/in/your-profile-name](https://www.linkedin.com/in/saurabh-kumar-sakr/)/) *(Don't forget to update this link!)*
+- 💼 **LinkedIn:** https://www.linkedin.com/in/your-profile-name](https://www.linkedin.com/in/saurabh-kumar-sakr
 - 📧 **Email:** saurabhkumar.sakr@gmail.com
 
 <br>
