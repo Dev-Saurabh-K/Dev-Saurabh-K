@@ -49,7 +49,7 @@ I’m a passionate full-stack web developer who loves building modern, scalable,
 
 ### 💻 Featured Projects
 
-* **Multilingual AI Chatbot (SIH 2025):** Full-stack web application integrating generative AI to provide seamless multilingual conversational support and problem-solving.
+* **Multilingual AI Chatbot (SIH 2024):** Full-stack web application integrating generative AI to provide seamless multilingual conversational support and problem-solving.
 * **Automated Workflow Engine:** Intelligent email pipeline built with n8n and AI APIs for dynamic content generation and automated delivery.
 
 ---
