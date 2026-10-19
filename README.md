@@ -31,17 +31,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎯 **Primary Focus:** Backend development — writing clean server-side logic, architecting RESTful APIs, and managing databases.
-- 💻 **MERN Stack:** Experienced building end-to-end web applications with React on the frontend and Node.js, Express, and MongoDB on the backend.
-- 🌐 **Networking & Hosting:** Exploring the practical side of backend infrastructure — VPS deployment, configuring Nginx reverse proxies, basic load balancing, and networking fundamentals.
-- 🛠️ **DevOps Basics:** Hands-on experience with Docker containerization, Linux administration, Bash scripting, and GitHub Actions workflows.
-- 📍 **Based in:** India • Open to Backend & MERN Stack roles and collaborations.
+- **Primary Focus:** Backend development — writing clean server-side logic, architecting RESTful APIs, and managing databases.
+- **MERN Stack:** Experienced building end-to-end web applications with React on the frontend and Node.js, Express, and MongoDB on the backend.
+- **Networking & Hosting:** Exploring the practical side of backend infrastructure — VPS deployment, configuring Nginx reverse proxies, basic load balancing, and networking fundamentals.
+- **DevOps Basics:** Hands-on experience with Docker containerization, Linux administration, Bash scripting, and GitHub Actions workflows.
+- **Based in:** India • Open to Backend & MERN Stack roles and collaborations.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -53,7 +53,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="28%"><b>⚙️ Backend (Primary Focus)</b></td>
+    <td width="28%"><b>Backend (Primary Focus)</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" />
@@ -64,7 +64,7 @@
     </td>
   </tr>
   <tr>
-    <td width="28%"><b>🗄️ Databases</b></td>
+    <td width="28%"><b>Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -73,7 +73,7 @@
     </td>
   </tr>
   <tr>
-    <td width="28%"><b>🌐 Networking & Hosting (Basics)</b></td>
+    <td width="28%"><b>Networking & Hosting (Basics)</b></td>
     <td>
       <img src="https://img.shields.io/badge/Nginx_(Reverse_Proxy)-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -83,7 +83,7 @@
     </td>
   </tr>
   <tr>
-    <td width="28%"><b>💻 Languages</b></td>
+    <td width="28%"><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -94,7 +94,7 @@
     </td>
   </tr>
   <tr>
-    <td width="28%"><b>🎨 Frontend & Tools</b></td>
+    <td width="28%"><b>Frontend & Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
@@ -108,7 +108,7 @@
 
 ---
 
-### 📌 Featured Repositories
+### Featured Repositories
 
 <div align="center">
   <table border="0" width="100%">
@@ -163,7 +163,7 @@
 
 ---
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -184,19 +184,17 @@
 
 ---
 
-### 🐍 Contribution Activity
+### Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Saurabh-K/Dev-Saurabh-K/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Saurabh-K/Dev-Saurabh-K/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Dev-Saurabh-K/Dev-Saurabh-K/output/github-contribution-grid-snake.svg" width="100%" style="max-width: 100%; height: auto; display: block;" />
-  </picture>
+  <a href="https://github.com/Dev-Saurabh-K">
+    <img src="https://ghchart.rshah.org/61dafb/Dev-Saurabh-K" alt="Dev-Saurabh-K's Contribution Chart" width="100%" style="max-width: 100%; height: auto;" />
+  </a>
 </div>
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <div align="center">
   <p>Feel free to reach out for backend collaborations, MERN projects, or general tech discussions!</p>
