@@ -184,12 +184,14 @@
 
 ---
 
-### Contribution Graph
+### Contribution Activity
 
 <div align="center">
-  <a href="https://github.com/Dev-Saurabh-K">
-    <img src="https://ghchart.rshah.org/61dafb/Dev-Saurabh-K" alt="Dev-Saurabh-K's Contribution Chart" width="100%" style="max-width: 100%; height: auto;" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Saurabh-K/Dev-Saurabh-K/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Saurabh-K/Dev-Saurabh-K/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Dev-Saurabh-K/Dev-Saurabh-K/output/github-contribution-grid-snake.svg" width="100%" style="max-width: 100%; height: auto; display: block;" />
+  </picture>
 </div>
 
 ---
