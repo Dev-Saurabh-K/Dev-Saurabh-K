@@ -235,7 +235,7 @@ developer:
         <img src="https://github-readme-stats.vercel.app/api?username=Dev-Saurabh-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Saurabh's GitHub Stats" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Saurabh-K&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Saurabh-K&exclude_repo=Hacktoberfest2025-JS,RAG,Image-Tool_GenAI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
