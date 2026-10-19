@@ -219,10 +219,6 @@
 
   <br><br>
 
-  <i>“Code, Learn, Build, Repeat 💻”</i>
-
-  <br><br>
-
   <!-- Footer Wave Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer" width="100%" alt="Footer Banner" />
 
