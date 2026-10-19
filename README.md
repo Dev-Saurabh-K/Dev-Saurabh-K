@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Dev-Saurabh-K&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://hits.sh/github.com/Dev-Saurabh-K.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6&extraCount=595" alt="Profile Views" />
   </p>
 
 </div>
