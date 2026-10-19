@@ -1,27 +1,27 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Saurabh%20Kumar&fontSize=42&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20DevOps%20Explorer&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=190&section=header&text=Saurabh%20Kumar&fontSize=44&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20DevOps%20Explorer&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- Dynamic Typing SVG -->
+  <!-- Animated Dynamic Typing Headline -->
   <a href="https://github.com/Dev-Saurabh-K">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vcenter=true&width=550&lines=MERN+Stack+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Explorer+%F0%9F%90%B3;Building+Scalable+Full-Stack+Apps+%F0%9F%8C%90;Open+Source+%26+Automation+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=61DAFB&center=true&vcenter=true&width=550&lines=Full-Stack+MERN+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Explorer+%F0%9F%90%B3;Building+Intelligent+AI+Platforms+%F0%9F%A7%A0;Real-Time+Web+%26+Distributed+Systems+%E2%9A%A1;Open+Source+%26+Automation+Builder+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- Quick Social Badges -->
+  <!-- Quick Action & Social Badges -->
   <p align="center">
-    <a href="https://dev-saurabh-k.github.io/portfoliov2/" target="_blank">
+    <a href="https://dev-saurabh-k.github.io/portfoliov2/">
       <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/saurabh-kumar-sakr" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/saurabh-kumar-sakr">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="mailto:saurabhkumar.sakr@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <img src="https://komarev.com/ghpvc/?username=Dev-Saurabh-K&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -34,28 +34,29 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Saurabh Kumar
-role: Full-Stack MERN Developer & DevOps Explorer
-interests: [System Design, Scalable Web Platforms, Cloud Automation, Generative AI]
-passions: [Building performant apps, Open Source, Streamlining CI/CD]
-current_focus: Deepening Docker orchestration, GitHub Actions, and scalable cloud deployments
-location: India
-status: Open to Full-Stack Developer & DevOps opportunities
+developer:
+  name: Saurabh Kumar
+  roles: [Full-Stack MERN Developer, DevOps Explorer, AI Application Builder]
+  passions: [Scalable Web Platforms, Cloud Automation, On-Device AI, Real-Time Architecture]
+  core_strengths: [Clean Code, Distributed Systems, Containerization, API Design]
+  current_focus: Deepening Docker orchestration, GitHub Actions CI/CD, and vector database retrieval
+  location: India
+  availability: Open to Full-Stack Developer & DevOps opportunities
 ```
 
-- 💼 **Professional Drive:** Crafting elegant, resilient, and user-centric web applications from concept to deployment.
-- 🔭 **Currently Building:** AI-integrated web applications, automated workflow engines, and scalable microservices.
-- 🐳 **DevOps Journey:** Automating containerized development lifecycles with Docker, CI/CD pipelines, and Linux environment management.
-- 🧠 **Strong Foundations:** Data Structures & Algorithms, C programming, Bash scripting, and RESTful API architecture.
+- 💼 **Engineering Vision:** Building fast, reliable, and user-focused web products with clean architectures and automated pipelines.
+- 🚀 **Currently Building:** On-device encrypted AI apps, intelligent vector retrieval APIs, and automated deployment engines.
+- 🐳 **DevOps & Cloud:** Automating end-to-end development lifecycles with Docker containers, dynamic Nginx proxying, and CI/CD pipelines.
+- 🧠 **Computer Science Roots:** Strong foundation in Data Structures & Algorithms, C programming, Bash automation, and RESTful architectures.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <p><b>Visual Skill Board</b></p>
+  <p><b>⚡ Interactive Skill Matrix</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,c,bash,html,css,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,mysql,sqlite,docker,githubactions,linux,git,postman,vscode&perline=11" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=js,py,c,bash,html,css,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,mysql,sqlite,docker,githubactions,linux,git,postman,vscode&perline=11" alt="Skill Icons Matrix" />
   </a>
 </div>
 
@@ -63,7 +64,7 @@ status: Open to Full-Stack Developer & DevOps opportunities
 
 <table>
   <tr>
-    <td width="20%" align="center"><b>Languages</b></td>
+    <td width="22%" align="center"><b>💻 Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -75,7 +76,7 @@ status: Open to Full-Stack Developer & DevOps opportunities
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><b>Frontend & Desktop</b></td>
+    <td width="22%" align="center"><b>🎨 Frontend & Desktop</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -84,7 +85,7 @@ status: Open to Full-Stack Developer & DevOps opportunities
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><b>Backend & APIs</b></td>
+    <td width="22%" align="center"><b>⚙️ Backend & APIs</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
@@ -95,7 +96,7 @@ status: Open to Full-Stack Developer & DevOps opportunities
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><b>Databases & Vector</b></td>
+    <td width="22%" align="center"><b>🗄️ Databases & Vector</b></td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -104,7 +105,7 @@ status: Open to Full-Stack Developer & DevOps opportunities
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><b>DevOps & Cloud</b></td>
+    <td width="22%" align="center"><b>🐳 DevOps & Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
@@ -114,7 +115,7 @@ status: Open to Full-Stack Developer & DevOps opportunities
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><b>Tools & Automation</b></td>
+    <td width="22%" align="center"><b>🔧 Tools & Automation</b></td>
     <td>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
       <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
@@ -131,48 +132,61 @@ status: Open to Full-Stack Developer & DevOps opportunities
 <table>
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
+      <th width="32%">Project</th>
+      <th width="43%">Architecture & Description</th>
+      <th width="25%">Tech Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
         <b>🔐 <a href="https://github.com/Dev-Saurabh-K/family-vault">FamilyVault</a></b><br>
-        <i>Local Encrypted Vault with On-Device AI</i><br>
-        <a href="https://github.com/Dev-Saurabh-K/family-vault"><code>GitHub</code></a> • 
-        <a href="https://hactober-fest-family-vault-download.vercel.app/"><code>Live App</code></a>
+        <i>Local Encrypted Vault with On-Device AI</i><br><br>
+        <a href="https://github.com/Dev-Saurabh-K/family-vault">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+        </a>
+        <a href="https://hactober-fest-family-vault-download.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-Download-2ea44f?style=flat-square&logo=vercel&logoColor=white" alt="Live App" />
+        </a>
       </td>
-      <td>AI-powered local end-to-end encrypted desktop vault. Utilizes on-device Gemma (via llama.cpp / ONNX), SQLCipher multi-cipher encryption, OCR (Tesseract / PaddleOCR), and Argon2 key derivation. Ensures total privacy with zero cloud dependency.</td>
-      <td><code>Electron</code> <code>JavaScript</code> <code>better-sqlite3</code> <code>Argon2</code> <code>ONNX Runtime</code> <code>OCR</code></td>
+      <td>AI-powered, local end-to-end encrypted desktop vault. Leverages on-device Gemma (via llama.cpp / ONNX), SQLCipher multi-cipher database encryption, OCR text extraction (Tesseract / PaddleOCR), and Argon2 key derivation for absolute privacy with zero cloud dependencies.</td>
+      <td><code>Electron</code> <code>better-sqlite3</code> <code>Argon2</code> <code>ONNX Runtime</code> <code>PaddleOCR</code> <code>Zod</code></td>
     </tr>
     <tr>
       <td>
         <b>⚡ <a href="https://github.com/Dev-Saurabh-K/memora-backend">Memora Backend</a></b><br>
-        <i>AI Knowledge & Vector Memory API</i><br>
-        <a href="https://github.com/Dev-Saurabh-K/memora-backend"><code>GitHub</code></a> • 
-        <a href="https://synaptiqapi.duckdns.org/docs"><code>API Docs</code></a>
+        <i>AI Knowledge & Vector Memory API</i><br><br>
+        <a href="https://github.com/Dev-Saurabh-K/memora-backend">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+        </a>
+        <a href="https://synaptiqapi.duckdns.org/docs">
+          <img src="https://img.shields.io/badge/API-Documentation-009688?style=flat-square&logo=fastapi&logoColor=white" alt="API Docs" />
+        </a>
       </td>
-      <td>High-performance AI knowledge retrieval and conversational memory backend. Employs ChromaDB vector store, Google AI Studio / Gemini embeddings, and FastAPI for real-time semantic search and context retrieval.</td>
+      <td>High-throughput AI knowledge retrieval and conversational long-term memory engine. Integrates ChromaDB vector store, Google AI Studio / Gemini embeddings, and FastAPI for real-time semantic query processing and context management.</td>
       <td><code>Python</code> <code>FastAPI</code> <code>ChromaDB</code> <code>Google Gemini AI</code> <code>Vector Embeddings</code> <code>Uvicorn</code></td>
     </tr>
     <tr>
       <td>
         <b>🚀 <a href="https://github.com/Dev-Saurabh-K/deployCode">deployCode</a></b><br>
-        <i>Automated Multi-Service Deployment Engine</i><br>
-        <a href="https://github.com/Dev-Saurabh-K/deployCode"><code>GitHub</code></a>
+        <i>Automated Multi-Service Deployment Engine</i><br><br>
+        <a href="https://github.com/Dev-Saurabh-K/deployCode">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+        </a>
+        <img src="https://img.shields.io/badge/Status-In--Active_Dev-blue?style=flat-square" alt="Status" />
       </td>
-      <td>Automated self-hosted cloud deployment engine. Dynamically orchestrates Docker containers, manages dynamic port allocation, and automates Nginx reverse proxy routing via Python scripts and shell daemons.</td>
-      <td><code>Python</code> <code>Docker</code> <code>Nginx</code> <code>FastAPI/Flask</code> <code>Shell Scripting</code> <code>DevOps</code></td>
+      <td>Self-hosted automated cloud deployment platform. Dynamically provisions Docker containers, manages dynamic port mappings, and generates automated Nginx reverse proxy configurations via Python daemons and shell execution scripts.</td>
+      <td><code>Python</code> <code>Docker</code> <code>Nginx</code> <code>FastAPI/Flask</code> <code>Bash Scripting</code> <code>DevOps</code></td>
     </tr>
     <tr>
       <td>
         <b>📝 <a href="https://github.com/Dev-Saurabh-K/Collaborative-Docs">Collaborative Docs</a></b><br>
-        <i>Real-Time Multi-User Document Editor</i><br>
-        <a href="https://github.com/Dev-Saurabh-K/Collaborative-Docs"><code>GitHub</code></a>
+        <i>Real-Time Multi-User Document Editor</i><br><br>
+        <a href="https://github.com/Dev-Saurabh-K/Collaborative-Docs">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+        </a>
       </td>
-      <td>Full-stack real-time collaborative document platform (Google Docs architecture). Implements bidirectional WebSocket communication with Socket.io, operational sync for concurrent edits, and persistent document storage in MongoDB.</td>
+      <td>Full-stack real-time collaborative document platform (Google Docs architecture). Implements bidirectional WebSocket communication with Socket.io, operational conflict resolution for concurrent live edits, and persistent document versioning in MongoDB.</td>
       <td><code>React</code> <code>Socket.io</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>WebSockets</code></td>
     </tr>
   </tbody>
@@ -184,24 +198,24 @@ status: Open to Full-Stack Developer & DevOps opportunities
   <p><b>📌 Pinned Repositories</b></p>
   <table border="0">
     <tr>
-      <td>
+      <td align="center">
         <a href="https://github.com/Dev-Saurabh-K/family-vault">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=family-vault&theme=tokyonight&hide_border=true" alt="family-vault" />
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://github.com/Dev-Saurabh-K/memora-backend">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=memora-backend&theme=tokyonight&hide_border=true" alt="memora-backend" />
         </a>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <a href="https://github.com/Dev-Saurabh-K/deployCode">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=deployCode&theme=tokyonight&hide_border=true" alt="deployCode" />
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://github.com/Dev-Saurabh-K/Collaborative-Docs">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=Collaborative-Docs&theme=tokyonight&hide_border=true" alt="Collaborative-Docs" />
         </a>
@@ -221,7 +235,7 @@ status: Open to Full-Stack Developer & DevOps opportunities
         <img src="https://github-readme-stats.vercel.app/api?username=Dev-Saurabh-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Saurabh's GitHub Stats" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Saurabh-K&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Saurabh-K&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
@@ -250,20 +264,20 @@ status: Open to Full-Stack Developer & DevOps opportunities
 <div align="center">
   <p>Let's collaborate, discuss new tech stacks, or build something great together!</p>
 
-  <a href="https://dev-saurabh-k.github.io/portfoliov2/" target="_blank">
+  <a href="https://dev-saurabh-k.github.io/portfoliov2/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/saurabh-kumar-sakr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/saurabh-kumar-sakr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:saurabhkumar.sakr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://github.com/Dev-Saurabh-K" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Dev-Saurabh-K">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br><br>
