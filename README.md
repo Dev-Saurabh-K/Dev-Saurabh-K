@@ -179,14 +179,17 @@ developer:
     </tr>
     <tr>
       <td>
-        <b>📝 <a href="https://github.com/Dev-Saurabh-K/Collaborative-Docs">Collaborative Docs</a></b><br>
-        <i>Real-Time Document Editor</i><br><br>
-        <a href="https://github.com/Dev-Saurabh-K/Collaborative-Docs">
+        <b>💬 <a href="https://github.com/Dev-Saurabh-K/chat-app">ChatApp</a></b><br>
+        <i>Real-Time Messaging Platform</i><br><br>
+        <a href="https://github.com/Dev-Saurabh-K/chat-app">
           <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
         </a>
+        <a href="https://chat-app-x6sa.vercel.app">
+          <img src="https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
       </td>
-      <td>Full-stack document editor built to practice real-time synchronization. Uses Socket.io on a Node.js server to broadcast text edits across connected clients, backed by MongoDB.</td>
-      <td><code>React</code> <code>Socket.io</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></td>
+      <td>Full-stack real-time messaging application. Built with a FastAPI backend, WebSocket connection manager for live messaging, SQLite via SQLAlchemy ORM, and a React (Vite) frontend with Zustand state management.</td>
+      <td><code>FastAPI</code> <code>WebSockets</code> <code>SQLAlchemy</code> <code>SQLite</code> <code>React</code> <code>Zustand</code></td>
     </tr>
   </tbody>
 </table>
@@ -215,8 +218,8 @@ developer:
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Dev-Saurabh-K/Collaborative-Docs">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=Collaborative-Docs&theme=tokyonight&hide_border=true" alt="Collaborative-Docs" />
+        <a href="https://github.com/Dev-Saurabh-K/chat-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=chat-app&theme=tokyonight&hide_border=true" alt="chat-app" />
         </a>
       </td>
     </tr>
