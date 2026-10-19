@@ -108,82 +108,58 @@
 
 ---
 
-### 💻 Featured Projects
+### 📌 Featured Repositories
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td align="center">
+      <td align="center" width="50%" valign="top">
         <a href="https://github.com/Dev-Saurabh-K/memora-backend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=memora-backend&theme=tokyonight&hide_border=true" alt="memora-backend" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=memora-backend&theme=tokyonight&hide_border=true&description_lines_count=2" alt="memora-backend" width="98%" />
         </a>
+        <br>
+        <p align="center">
+          <a href="https://synaptiqapi.duckdns.org/docs">
+            <img src="https://img.shields.io/badge/API-Documentation-009688?style=flat-square&logo=fastapi&logoColor=white" alt="API Docs" />
+          </a>
+        </p>
       </td>
-      <td align="center">
+      <td align="center" width="50%" valign="top">
         <a href="https://github.com/Dev-Saurabh-K/deployCode">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=deployCode&theme=tokyonight&hide_border=true" alt="deployCode" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=deployCode&theme=tokyonight&hide_border=true&description_lines_count=2" alt="deployCode" width="98%" />
         </a>
+        <br>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Status-In--Progress-2088FF?style=flat-square&logo=docker&logoColor=white" alt="Status" />
+        </p>
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" width="50%" valign="top">
         <a href="https://github.com/Dev-Saurabh-K/family-vault">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=family-vault&theme=tokyonight&hide_border=true" alt="family-vault" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=family-vault&theme=tokyonight&hide_border=true&description_lines_count=2" alt="family-vault" width="98%" />
         </a>
+        <br>
+        <p align="center">
+          <a href="https://hactober-fest-family-vault-download.vercel.app/">
+            <img src="https://img.shields.io/badge/Download-Desktop_App-2EA44F?style=flat-square&logo=vercel&logoColor=white" alt="Download App" />
+          </a>
+        </p>
       </td>
-      <td align="center">
+      <td align="center" width="50%" valign="top">
         <a href="https://github.com/Dev-Saurabh-K/chat-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=chat-app&theme=tokyonight&hide_border=true" alt="chat-app" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Saurabh-K&repo=chat-app&theme=tokyonight&hide_border=true&description_lines_count=2" alt="chat-app" width="98%" />
         </a>
+        <br>
+        <p align="center">
+          <a href="https://chat-app-x6sa.vercel.app">
+            <img src="https://img.shields.io/badge/Live-Web_Demo-2EA44F?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+          </a>
+        </p>
       </td>
     </tr>
   </table>
 </div>
-
-<br>
-
-<table align="center" width="100%">
-  <thead>
-    <tr>
-      <th width="30%">Project</th>
-      <th width="45%">Description</th>
-      <th width="25%">Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>⚡ <a href="https://github.com/Dev-Saurabh-K/memora-backend">Memora Backend</a></b><br>
-        <a href="https://synaptiqapi.duckdns.org/docs"><code>API Docs ↗</code></a>
-      </td>
-      <td>FastAPI backend service connecting to a ChromaDB vector store and Gemini API for contextual memory storage.</td>
-      <td><code>Python</code> <code>FastAPI</code> <code>ChromaDB</code></td>
-    </tr>
-    <tr>
-      <td>
-        <b>🚀 <a href="https://github.com/Dev-Saurabh-K/deployCode">deployCode</a></b><br>
-        <small><i>In-Progress Experiment</i></small>
-      </td>
-      <td>Deployment automation tool using Python & Bash to manage Docker containers on custom ports and generate Nginx reverse proxy routes.</td>
-      <td><code>Docker</code> <code>Nginx</code> <code>Python</code></td>
-    </tr>
-    <tr>
-      <td>
-        <b>🔐 <a href="https://github.com/Dev-Saurabh-K/family-vault">FamilyVault</a></b><br>
-        <a href="https://hactober-fest-family-vault-download.vercel.app/"><code>Live App ↗</code></a>
-      </td>
-      <td>Local encrypted desktop vault built with Electron, SQLCipher database encryption, and Argon2 password hashing.</td>
-      <td><code>Electron</code> <code>SQLite</code> <code>Argon2</code></td>
-    </tr>
-    <tr>
-      <td>
-        <b>💬 <a href="https://github.com/Dev-Saurabh-K/chat-app">ChatApp</a></b><br>
-        <a href="https://chat-app-x6sa.vercel.app"><code>Live Demo ↗</code></a>
-      </td>
-      <td>Full-stack real-time messaging application with a FastAPI WebSocket server, SQLAlchemy ORM, SQLite, and a React frontend.</td>
-      <td><code>FastAPI</code> <code>WebSockets</code> <code>React</code></td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
